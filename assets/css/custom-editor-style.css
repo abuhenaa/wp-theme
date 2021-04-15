@@ -1,0 +1,11 @@
+/*
+*theme editor style file css
+*/
+body#tinymce.wp-editor ,.block-editor { 
+    font-family: Rubik, Helvetica, sans-serif; 
+    margin: 10px; 
+}
+ 
+body#tinymce.wp-editor a,.block-editor a {
+    color: #ff0066;
+}
